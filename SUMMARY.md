@@ -2,5 +2,5 @@
 
 * [TOC](another toc.md)
 * [Chapter 1](chapter_1.md)
-* Plugins 
+* [Plugins ](plugins.md)
 
