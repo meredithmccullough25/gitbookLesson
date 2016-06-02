@@ -2,7 +2,8 @@
     "plugins": [
         "annotate",
         "blog",
-        "book-summary-scroll-position-saver"
+        "book-summary-scroll-position-saver",
+        "emoji"
     ],
     "pluginsConfig": {}
 }
