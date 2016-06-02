@@ -1,7 +1,8 @@
 {
     "plugins": [
         "annotate",
-        "blog"
+        "blog",
+        "book-summary-scroll-position-saver"
     ],
     "pluginsConfig": {}
 }
