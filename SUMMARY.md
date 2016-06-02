@@ -1,4 +1,4 @@
 # Summary
 
-* TOC
+* [TOC](another toc.md)
 
